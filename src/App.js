@@ -4,7 +4,7 @@ const types = [
   "video/webm",
   "video/mp4",
   "audio/webm",
-  "video/mpeg"
+  "video/mpeg",
   "video/webm;codecs=vp8",
   "video/webm;codecs=daala",
   "video/webm;codecs=vp9",
