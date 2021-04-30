@@ -15,7 +15,7 @@ const types = [
 
 export default function App() {
   return (
-    <div>
+    <div className="app">
       <h1 className="title">Check Media Recording type</h1>
       <table>
         <thead>
