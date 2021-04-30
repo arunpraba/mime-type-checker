@@ -9,14 +9,15 @@ const types = [
   "video/webm;codecs=daala",
   "video/webm;codecs=h264",
   "audio/webm;codecs=opus",
-  "video/mpeg",
-  "video/mp4"
+  "video/mpeg"
 ];
 
 export default function App() {
   return (
     <div className="app">
-      <h1 className="title">Check Media Recording type</h1>
+      <h1 className="title">
+        <code>mimeType</code> checker for MediaRecorder API
+      </h1>
       <table>
         <thead>
           <th>Mime Type</th>

@@ -17,6 +17,14 @@ body {
   padding: 1rem;
   margin: 1rem auto;
   text-align: center;
+  line-height: 1.6;
+}
+
+code {
+  box-shadow: 0 0 0 2px darkgreen, 0 0 0 5px darkgreen;
+  background: darkgreen;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
 }
 
 table {
