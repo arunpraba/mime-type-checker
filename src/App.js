@@ -1,7 +1,5 @@
 import "./styles.css";
 
-import "./styles.css";
-
 const types = [
   "video/webm",
   "audio/webm",
