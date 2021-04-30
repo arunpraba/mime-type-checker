@@ -1,2 +1,3 @@
-# mime-type-checker
-Created with CodeSandbox
+# [`mimeType` checker for MediaRecorder API](https://mime-type-checker.netlify.app/)
+
+
